@@ -18,5 +18,60 @@
     font-weight: 700;
     padding: 10px 15px;
     border: 0;
-
+}
+.section-title{
+    text-align: center;
+    padding-top: 70px;
+}
+.section-description{
+    text-align: center;
+}
+.box-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 420px;
+    height: 538px;
+    margin-top: 50px;
+}
+.image-1{
+    width: 310px;
+    height: 413px;
+    margin: 125px 40px 40px 40px;
+}
+.box-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 420px;
+    height: 538px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: #272727;
+}
+.image-2{
+    width: 370px;
+    height: 370px;
+    margin: 125px 40px 40px 40px;
+}
+.box-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 420px;
+    height: 538px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: #272727;
+}
+.image-3{
+    width: 314px;
+    height: 471px;
+    margin: px 40px 40px 40px;
+    padding: 67px 75px 0px 75px;
+}
+.flower-container{
+    display: flex;
+    padding: 40px 70px 20px 70px;
+    border-radius: 5px;
+    gap: 55px;
 }
