@@ -105,10 +105,17 @@
 }
 
 .hot-deal {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     margin-top: 100px;
-    padding: 150px 450px 140px 250px;
+    padding: 100px 450px 100px 250px;
+}
+
+.hot-deal-container {
+    padding-top: 120px;
 }
 
 .Instagram-title {
@@ -126,4 +133,22 @@
     /* width: 300px; */
     /* height: 350px; */
     /* display: flex; */
+}
+
+.Latest-Deals-title {
+    text-align: center;
+    /* padding: 150px; */
+}
+
+.Latest-Deals-description {
+    text-align: center;
+    /* padding-top: 0px; */
+}
+
+.footer-column {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #111010;
+    margin: auto;
 }
