@@ -6,3 +6,17 @@
     padding-left: 200px;
     background: rgba(229, 84, 115, 0.10);
 }
+.profile-pic{
+    padding: 30px 150px 0px 150px;
+    width: 500px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: 0;
+
+}
